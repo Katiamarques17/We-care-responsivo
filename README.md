@@ -12,3 +12,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <br>
+ <img src="https://github.com/Katiamarques17/We-care-responsivo/blob/master/img/mobile-desktop-we-care.png?raw=true">
